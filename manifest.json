@@ -1,0 +1,9 @@
+{
+  "id": "mark-workdays",
+  "name": "Робочі дні",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Workdays calendar: days worked per workplace, daily rate history, tips, monthly and yearly totals, check against what the boss paid. Plugs into Mark Finance as a tab and adds expected income to its plan.",
+  "author": "Mark Lysak",
+  "isDesktopOnly": false
+}
